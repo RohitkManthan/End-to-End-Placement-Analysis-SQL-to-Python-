@@ -1,0 +1,101 @@
+Roll No.,gender,specialisation,mba_p,status,salary
+1,M,Mkt&HR,58.8,Placed,270000
+2,M,Mkt&Fin,66.28,Placed,200000
+3,M,Mkt&Fin,57.8,Placed,250000
+4,M,Mkt&HR,59.43,Not Placed,0
+5,M,Mkt&Fin,55.5,Placed,425000
+6,M,Mkt&Fin,51.58,Not Placed,0
+7,F,Mkt&Fin,53.29,Not Placed,0
+8,M,Mkt&Fin,62.14,Placed,252000
+9,M,Mkt&Fin,61.29,Placed,231000
+10,M,Mkt&Fin,52.21,Not Placed,0
+11,M,Mkt&HR,60.85,Placed,260000
+12,M,Mkt&Fin,63.7,Placed,250000
+13,F,Mkt&HR,65.04,Not Placed,0
+14,F,Mkt&Fin,68.63,Placed,218000
+15,M,Mkt&HR,54.96,Not Placed,0
+16,F,Mkt&Fin,64.66,Placed,200000
+17,M,Mkt&Fin,62.54,Placed,300000
+18,F,Mkt&Fin,67.28,Not Placed,0
+19,F,Mkt&HR,64.08,Not Placed,0
+20,M,Mkt&Fin,77.89,Placed,236000
+21,M,Mkt&HR,56.7,Placed,265000
+22,F,Mkt&Fin,69.06,Placed,393000
+23,F,Mkt&HR,68.81,Placed,360000
+24,F,Mkt&Fin,63.62,Placed,300000
+25,M,Mkt&Fin,74.01,Placed,360000
+26,F,Mkt&Fin,65.33,Not Placed,0
+27,M,Mkt&Fin,57.55,Placed,240000
+28,M,Mkt&HR,57.69,Placed,265000
+29,M,Mkt&Fin,64.15,Placed,350000
+30,M,Mkt&Fin,51.29,Not Placed,0
+31,F,Mkt&HR,56.7,Placed,250000
+32,F,Mkt&HR,58.32,Not Placed,0
+33,F,Mkt&HR,62.21,Placed,278000
+34,F,Mkt&Fin,72.78,Placed,260000
+35,M,Mkt&HR,62.77,Not Placed,0
+36,F,Mkt&HR,62.74,Placed,300000
+37,M,Mkt&Fin,51.45,Not Placed,0
+38,F,Mkt&HR,55.47,Placed,320000
+39,F,Mkt&HR,56.86,Placed,240000
+40,M,Mkt&Fin,62.56,Placed,411000
+41,F,Mkt&Fin,66.72,Placed,287000
+42,F,Mkt&HR,69.76,Not Placed,0
+43,M,Mkt&Fin,51.21,Not Placed,0
+44,M,Mkt&HR,62.9,Placed,300000
+45,F,Mkt&Fin,69.7,Placed,200000
+46,F,Mkt&HR,66.53,Not Placed,0
+47,F,Mkt&HR,71.63,Not Placed,0
+48,M,Mkt&Fin,54.55,Placed,204000
+49,M,Mkt&Fin,62.46,Placed,250000
+50,F,Mkt&HR,56.11,Not Placed,0
+51,F,Mkt&HR,62.98,Placed,200000
+52,M,Mkt&HR,62.65,Not Placed,0
+53,F,Mkt&HR,65.49,Not Placed,0
+54,M,Mkt&HR,71.04,Placed,450000
+55,F,Mkt&HR,65.56,Placed,216000
+56,M,Mkt&HR,52.71,Placed,220000
+57,M,Mkt&Fin,66.88,Placed,240000
+58,M,Mkt&Fin,63.59,Placed,360000
+59,M,Mkt&Fin,57.99,Placed,268000
+60,M,Mkt&Fin,56.66,Placed,265000
+61,M,Mkt&Fin,57.24,Placed,260000
+62,M,Mkt&Fin,62.48,Placed,300000
+63,F,Mkt&Fin,59.69,Placed,240000
+64,M,Mkt&HR,59.5,Not Placed,0
+65,M,Mkt&Fin,58.78,Placed,240000
+66,M,Mkt&HR,57.1,Not Placed,0
+67,M,Mkt&HR,58.46,Placed,275000
+68,M,Mkt&Fin,60.99,Placed,275000
+69,F,Mkt&HR,59.24,Not Placed,0
+70,M,Mkt&Fin,68.07,Placed,275000
+71,M,Mkt&Fin,65.45,Placed,360000
+72,M,Mkt&Fin,66.94,Placed,240000
+73,M,Mkt&Fin,68.53,Placed,240000
+74,M,Mkt&Fin,59.75,Placed,218000
+75,M,Mkt&Fin,67.2,Placed,336000
+76,F,Mkt&HR,67,Not Placed,0
+77,F,Mkt&Fin,64.27,Placed,230000
+78,M,Mkt&Fin,57.65,Placed,500000
+79,M,Mkt&Fin,59.42,Placed,270000
+80,F,Mkt&HR,67.99,Not Placed,0
+81,F,Mkt&HR,62.35,Placed,240000
+82,M,Mkt&Fin,70.2,Placed,300000
+83,M,Mkt&Fin,60.44,Not Placed,0
+84,M,Mkt&Fin,66.69,Placed,300000
+85,M,Mkt&Fin,62,Placed,300000
+86,F,Mkt&Fin,76.18,Placed,400000
+87,M,Mkt&Fin,57.03,Placed,220000
+88,M,Mkt&HR,59.08,Not Placed,0
+89,F,Mkt&HR,64.36,Placed,210000
+90,F,Mkt&HR,62.36,Placed,210000
+91,F,Mkt&Fin,68.03,Placed,300000
+92,M,Mkt&HR,62.79,Not Placed,0
+93,F,Mkt&Fin,59.47,Placed,230000
+94,M,Mkt&HR,55.41,Not Placed,0
+95,M,Mkt&Fin,54.97,Placed,260000
+96,M,Mkt&Fin,62.16,Placed,420000
+97,F,Mkt&Fin,64.44,Placed,300000
+98,F,Mkt&Fin,69.03,Not Placed,0
+99,F,Mkt&Fin,57.31,Placed,220000
+100,M,Mkt&Fin,59.47,Not Placed,0
